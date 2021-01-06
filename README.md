@@ -1,7 +1,7 @@
 # AI Project for ID1214 Artificial Intelligence and Applied Methods course
 
 ## How to run it
-These steps are tested and work for __Windows OS__
+These steps are tested and work for __Windows OS__ only
 
 1. Clone the repository
 2. Navigate into the folder
